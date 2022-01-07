@@ -48,7 +48,7 @@ The application implementation is defined into the following two phases:
 * Good and clear documentation. (10%)
 * Input validity check and fault tolerance. (20%)
 
-## Phase 2 (10%): Due 8:00 AM-April 26, 2017
+## Phase 2 (10%): Due 8:00 AM-April 26, 2022
 
 1. Your application should have a GUI. All interaction should be through the GUI. The command line should never be used.
 2. At any time, the user should be able to save all the information on a file.
