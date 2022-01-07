@@ -37,7 +37,7 @@ General Implementation Guidelines:
 
 The application implementation is defined into the following two phases:
 
-## Phase 1 (10%): Due: 8:00 AM-March 29, 2017
+## Phase 1 (10%): Due: 8:00 AM-March 29, 2021
 
 1. Your application should not have a GUI. All interaction should be made through the command line.
 2. Your application does not need to save the information onto a file.
@@ -48,7 +48,7 @@ The application implementation is defined into the following two phases:
 * Good and clear documentation. (10%)
 * Input validity check and fault tolerance. (20%)
 
-## Phase 2 (10%): Due 8:00 AM-April 26, 2022
+## Phase 2 (10%): Due 8:00 AM-April 26, 2021
 
 1. Your application should have a GUI. All interaction should be through the GUI. The command line should never be used.
 2. At any time, the user should be able to save all the information on a file.
